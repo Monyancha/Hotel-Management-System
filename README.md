@@ -1,11 +1,10 @@
-Hotel Commerce
+Hotel Management System
 --------
-Hotel Commerce is Hotel Booking  & Reservarion system . Using this you can  easily launch your hotel booking website  and even  manage your offline booking too . This package is developed on top of Prestashop 1.6.
-For more info you can visit : http://qloapps.com
+Hotel System is Hotel Booking  & Reservarion system . Using this you can  easily launch your hotel booking website  and even  manage your offline booking too . This package is developed on top of Prestashop 1.6.
+
 Demo
 --------
-FrontEnd : http://prestashop.webkul.com/hotel-reservation/ </br>
-Backend : http://prestashop.webkul.com/hotel-reservation/adminhtl/ </br>
+For more info you can visit : http://qloapps.com
 username : demo@demo.com </br>
 Password : demodemo </br>
 
@@ -28,13 +27,9 @@ Once the files in the HotelCommerce  archive have been decompressed and uploaded
 
 Getting support
 --------
-If you need help using PrestaShop 1.6, contact the PrestaShop support team: support@webkul.com
-or raise ticket at https://webkul.com/ticket/
-
-Webkul is known for his proactive support and already developed more than 100+ plugins on prestashop and more than 700+ plugins on other opensource platforms.
-
+If you need help using PrestaShop 1.6, contact enocmonyancha@gmail.com
 
 license
 --------
-OSL V3 : https://opensource.org/licenses/OSL-3.0
+OSL V3 : 
 Thank you for downloading .
